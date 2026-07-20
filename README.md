@@ -82,5 +82,5 @@ The IBM Watson-Powered Chatbot project demonstrates the practical application of
 ## Author
 
 **Name:** Priyanshu Singh  
-**Course:** Bachelor of Business Administration / MBA (replace with your exact course)  
+**Course:** Bachelor of Business Administration
 **Project Name:** IBM Watson-Powered Chatbot
